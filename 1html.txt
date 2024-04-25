@@ -1,0 +1,34 @@
+<!DOCTYPE>
+<html>
+<title>Form</title>
+</head>
+<body>
+<h1>IWT WORKSHOP</h1>
+<form>
+<fiedset>
+<legend> Register Your Interest</legend>
+<br><b>Your Name:</b><input type ="text"><br>
+<br><b>Your email:</br>input type="text"<br>
+<b>Your closest center</b>
+
+<select>
+<option value="Malabe">Malabe</option>
+<option value="Jaffna">Jaffna</option>
+<option value="Mathara">Mathra</option>
+<option value="Kandy">Kandy</option>
+</select><br><br>
+
+<b>Select The Session</b>
+<input type="chatbox">Introduction To Web<br>
+<input type="chatbox">HTML&CSS<br>
+<input type="chatbox">Javascript<br>
+<input type="chatbox">PHP&MYSQL<br>
+
+<b>Are You a SLIIT Student?</b>
+<input type="radio">Yes
+<input type="radio">No<br><br>
+<input type="submit"value="Register">
+</filedset>
+</form>
+</body>
+</html>
